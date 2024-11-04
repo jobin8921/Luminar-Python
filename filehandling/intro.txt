@@ -1,0 +1,19 @@
+
+Create read update delete   CRUD
+
+
+File handling in python
+
+Python has several functions for creating,reading,updating and deleting files.
+
+read        "r"      for reading content from an exisiting file
+
+create      "x"      for creating a new file in the directory
+
+write       "w"      writing or add a content to a new created file
+
+update  or append     "a"      adding content to exsting file without removing past content
+
+
+
+open(filename,mode)       open("1.txt","r")
